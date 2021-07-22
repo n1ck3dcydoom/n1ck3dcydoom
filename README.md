@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![n1ck3dcydoom's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1ck3dcydoom&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **n1ck3dcydoom/n1ck3dcydoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
