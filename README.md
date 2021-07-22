@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 I'm learning algorithms and some basic knowledge
 
 [![n1ck3dcydoom's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1ck3dcydoom&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
